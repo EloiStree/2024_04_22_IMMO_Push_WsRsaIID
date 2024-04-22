@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.pushwsrsaiid",                              
+  "displayName": "Push Websocket RSA Integer value to iMMO",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Example of how to push integer date to websocket with RSA handshake.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_04_22_IMMO_Push_WsRsaIID.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

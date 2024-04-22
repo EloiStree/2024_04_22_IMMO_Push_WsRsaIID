@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.pushwsrsaiidEditor",          
+    "references": ["be.eloistree.pushwsrsaiid"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
